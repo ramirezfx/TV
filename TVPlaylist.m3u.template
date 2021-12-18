@@ -1,0 +1,87 @@
+#EXTINF:-1 tvg-id="" tvg-name="##########   Deutschland   ##########" tvg-logo="http://195.154.221.171/picons/germany.png" group-title="Deutschland",##########   Deutschland   ##########
+#EXTINF:-1 tvg-id="DasErste.de" tvg-name="Das Erste FHD DE" tvg-logo="http://195.154.221.171/picons/daserstehdde.png" group-title="Deutschland",Das Erste FHD DE
+URLDASERSTE
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL DE" tvg-logo="http://195.154.221.171/picons/rtlde.png" group-title="Deutschland",RTL DE
+URLRTLDE
+#EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL II DE" tvg-logo="http://195.154.221.171/picons/rtliide.png" group-title="Deutschland",RTL II DE
+URLRTLII
+#EXTINF:-1 tvg-id="Vox.de" tvg-name="VOX DE" tvg-logo="http://195.154.221.171/picons/voxde.png" group-title="Deutschland",VOX DE
+URLVOX
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="n-tv HD DE" tvg-logo="http://195.154.221.171/picons/ntvde.png" group-title="Deutschland",n-tv HD DE
+URLNTV
+#EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="RTL Nitro FHD DE" tvg-logo="http://195.154.221.171/picons/rtlnitrohdde.png" group-title="Deutschland",RTL Nitro FHD DE
+URLNITRO
+#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="Super RTL HD DE" tvg-logo="" group-title="Deutschland",Super RTL HD DE
+URLSUPERRTL
+#EXTINF:-1 tvg-id="TLC.de" tvg-name="TLC HD HEVC DE" tvg-logo="http://195.154.221.171/picons/tlcnl.png" group-title="Deutschland",TLC HD
+URLTLC
+#EXTINF:-1 tvg-id="ProSieben.de" tvg-name="ProSieben DE" tvg-logo="http://195.154.221.171/picons/prosiebende.png" group-title="Deutschland",ProSieben DE
+URLPROSIEBEN
+#EXTINF:-1 tvg-id="KabelEins.de" tvg-name="kabel eins HD DE" tvg-logo="http://195.154.221.171/picons/kabeleinshdde.png" group-title="Deutschland",kabel eins HD DE
+URLKABELEINS
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="SAT.1" tvg-logo="" group-title="Deutschland",SAT.1 HD HEVC DE
+URLSATEINS
+#EXTINF:-1 tvg-id="Sixx.de" tvg-name="SIXX HD DE" tvg-logo="http://195.154.221.171/picons/sixxhdde.png" group-title="Deutschland",SIXX HD DE
+URLSIXX
+#EXTINF:-1 tvg-id="DMax.de" tvg-name="DMAX DE" tvg-logo="http://195.154.221.171/picons/dmaxhdde.png" group-title="Deutschland",DMAX DE
+URLDMAX
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben MAXX HD DE" tvg-logo="http://195.154.221.171/picons/prosiebenmaxxhdde.png" group-title="Deutschland",ProSieben MAXX HD DE
+URLMAXXSIEBENPRO
+#EXTINF:-1 tvg-id="KabelEinsDoku.de" tvg-name="kabel eins Doku DE" tvg-logo="http://195.154.221.171/picons/kabeleinsdokude.png" group-title="Deutschland",kabel eins Doku DE
+URLDOKUEINSKABEL
+#EXTINF:-1 tvg-id="Sat1Gold.de" tvg-name="SAT 1 GOLD HD HEVC DE" tvg-logo="" group-title="Deutschland",SAT 1 GOLD HD HEVC DE
+URLGOLDEINSSAT
+#EXTINF:-1 tvg-id="Kika.de" tvg-name="KiKa DE" tvg-logo="http://195.154.221.171/picons/kikade.png" group-title="Deutschland",KiKa DE
+URLKIKA
+#EXTINF:-1 tvg-id="disneychannel.de" tvg-name="Disney Channel DE" tvg-logo="http://195.154.221.171/picons/disneychannelde.png" group-title="Deutschland",Disney Channel DE
+URLDISNEYCHANNEL
+#EXTINF:-1 tvg-id="Tele5.de" tvg-name="Tele 5 HD DE" tvg-logo="http://195.154.221.171/picons/tele5de.png" group-title="Deutschland",Tele 5 HD DE
+URLTELEFUENF
+#EXTINF:-1 tvg-id="ComedyCentralVIVA.de" tvg-name="Comedy Central DE" tvg-logo="http://195.154.221.171/picons/vivacomedycentralde.png" group-title="Deutschland",Comedy Central DE
+URLCOMEDYCENTRAL
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat HD DE" tvg-logo="http://195.154.221.171/picons/3sathdde.png" group-title="Deutschland",3sat HD DE
+URLDREISAT
+#EXTINF:-1 tvg-id="N24Doku.de" tvg-name="N24 Doku DE" tvg-logo="http://195.154.221.171/picons/n24hdde.png" group-title="Deutschland",N24 Doku DE
+URLNVIERUNDZWANZIG
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF HEVC DE" tvg-logo="" group-title="Deutschland",ZDF HEVC DE
+URLZDFDE
+#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDFinfo DE" tvg-logo="http://195.154.221.171/picons/zdfinfode.png" group-title="Deutschland",ZDFinfo DE
+URLZDFINFO
+#EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDFneo DE" tvg-logo="http://195.154.221.171/picons/zdfneode.png" group-title="Deutschland",ZDFneo DE
+URLZDFNEO
+#EXTINF:-1 tvg-id="ARTE.de" tvg-name="arte DE" tvg-logo="http://195.154.221.171/picons/artede.png" group-title="Deutschland",arte DE
+URLARTEDE
+#EXTINF:-1 tvg-id="Nickelodeon.de" tvg-name="Nickelodeon HD DE" tvg-logo="http://195.154.221.171/picons/nickelodeonde.png" group-title="Deutschland",Nickelodeon HD DE
+URLNICKELODEONDE
+#EXTINF:-1 tvg-id="MDRS-Anhalt.de" tvg-name="MDR HD DE" tvg-logo="http://195.154.221.171/picons/mdrhdde.png" group-title="Deutschland",MDR HD DE
+URLMDRDE
+#EXTINF:-1 tvg-id="WDRFernsehen.de" tvg-name="WDR HD DE" tvg-logo="http://195.154.221.171/picons/wdrhdde.png" group-title="Deutschland",WDR HD DE
+URLWDRDE
+#EXTINF:-1 tvg-id="BRFernsehen.de" tvg-name="BR DE" tvg-logo="http://195.154.221.171/picons/brde.png" group-title="Deutschland",BR DE
+URLBRDE
+#EXTINF:-1 tvg-id="One.de" tvg-name="One TV HD DE" tvg-logo="http://195.154.221.171/picons/onetvhdde.png" group-title="Deutschland",One TV HD DE
+URLONEDE
+#EXTINF:-1 tvg-id="rbbBerlin.de" tvg-name="rbb DE" tvg-logo="http://195.154.221.171/picons/rbbde.png" group-title="Deutschland",rbb DE
+URLRBBDE
+#EXTINF:-1 tvg-id="Welt der Wunder DE" tvg-name="Welt der Wunder DE" tvg-logo="http://195.154.221.171/picons/weltderwunderde.png" group-title="Deutschland",Welt der Wunder DE
+URLWELTDERWUNDERDE
+#EXTINF:-1 tvg-id="phoenix.de" tvg-name="Phoenix HD DE" tvg-logo="http://195.154.221.171/picons/phoenixhdde.png" group-title="Deutschland",Phoenix HD DE
+URLPHOENIXDE
+#EXTINF:-1 tvg-id="HRFernsehen.de" tvg-name="HR DE" tvg-logo="http://195.154.221.171/picons/hrde.png" group-title="Deutschland",HR DE
+URLHRDE
+#EXTINF:-1 tvg-id="NDRFernsehen.de" tvg-name="NDR FS HH HD HEVC DE" tvg-logo="http://195.154.221.171/picons/ndrhdde.png" group-title="Deutschland",NDR FS HH HD HEVC DE
+URLNDRDE
+#EXTINF:-1 tvg-id="MTVGermany.de" tvg-name="MTV FHD DE" tvg-logo="http://195.154.221.171/picons/mtvhd.png" group-title="Deutschland",MTV FHD DE
+URLMTVDE
+#EXTINF:-1 tvg-id="SWRFernsehen.de" tvg-name="SWR DE" tvg-logo="http://195.154.221.171/picons/swrde.png" group-title="Deutschland",SWR DE
+URLSWRDE
+#EXTINF:-1 tvg-id="SRFernsehen.de" tvg-name="SR HD DE" tvg-logo="http://195.154.221.171/picons/srhdde.png" group-title="Deutschland",SR HD DE
+URLSRDE
+#EXTINF:-1 tvg-id="Kika.de" tvg-name="KiKa DE" tvg-logo="http://195.154.221.171/picons/kikade.png" group-title="Kids",KiKa DE
+URLKIKA
+#EXTINF:-1 tvg-id="disneychannel.de" tvg-name="Disney Channel DE" tvg-logo="http://195.154.221.171/picons/disneychannelde.png" group-title="Kids",Disney Channel DE
+URLDISNEYCHANNEL
+#EXTINF:-1 tvg-id="Nickelodeon.de" tvg-name="Nickelodeon HD DE" tvg-logo="http://195.154.221.171/picons/nickelodeonde.png" group-title="Kids",Nickelodeon HD DE
+URLNICKELODEONDE
+#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="Super RTL HD DE" tvg-logo="" group-title="Kids",Super RTL HD DE
+URLSUPERRTL
